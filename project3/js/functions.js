@@ -27,4 +27,5 @@ Book.prototype.outputCard = function() {
   document.write("<a class='mdl-button'>READ MORE</a>");
   document.write("</div>");
   document.write("</div>");
+  ``
 };
